@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Agamendon/agamendon.github.io
+  repo: Agamendon/ppage
   branch: main
 
 publish_mode: editorial_workflow
