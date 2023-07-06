@@ -1,0 +1,94 @@
+/*IMPORTANT: the assumed condition for viewing is mobile phone, desktop rules are given below*/
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.menu {
+  width: 100%;
+  float: left;
+}
+
+.right {
+    width: 100%;
+    float: left;
+}
+
+
+.right-centered {
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    line-height: 1.5;
+    font-size: 21px;
+}
+
+@media only screen and (min-width: 768px) {
+    /* desktops */
+    .menu {width: 25%; max-width: 700px; position: fixed; height: 100%;}
+    .right {width: 75%; float: right;}
+    .menu-vertical-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
+    .right-centered {
+        width: 60%;
+    }
+}
+
+
+.menu {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 22px;
+}
+
+.prfimg {
+    width: 45%;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.admin-panel {
+    font-size: 19px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.menu-itself {
+    list-style-type: none;
+	/* position: relative;
+	list-style: none; */
+	margin-left: 0;
+	padding-left: 0;
+}
+.menu-itself > li:before {
+    content: "";
+    position: absolute;
+    left: 0;
+}
+
+.menu-itself > li {
+    margin-bottom: 7px;
+}
+
+.blog-preview > * {
+    font-size: 95%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.blog-preview {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left-style: solid;
+    border-left-color: blue;
+    border-left-width: 3px;
+}

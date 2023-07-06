@@ -1,0 +1,39 @@
+.menu-link {
+    margin-right: 20px;
+}
+
+.blog-center {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+    width: 90%;
+    margin: auto;
+    line-height: 1.5;
+}
+
+
+@media only screen and (min-width: 768px) {
+    /* desktops */
+    .blog-center {
+        width: 50%;
+    }
+}
+
+
+.blog-center {
+    margin-top: 20px;
+}
+
+.blog > p > img {
+    max-height: 600px;
+    max-width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.blog > p > img + em {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

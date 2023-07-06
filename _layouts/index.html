@@ -1,0 +1,42 @@
+---
+title: Heorhii's personal page
+---
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="stylesheet" href="assets/css/index.css">
+    <title>{{page.title}}</title>
+</head>
+<body>
+    <a class="admin-panel" href="/admin">Admin</a>
+    <div class="menu">
+        <div class="menu-vertical-center">
+            <img src="media/static/profile.png" class="prfimg">
+            <div class="name">Heorhii Ambartsumov</div>
+            <ul class="menu-itself">
+
+            </ul>
+        </div>
+    </div>
+
+    <div class="right"  style="">
+        <div class="right-centered" style="">
+            {{ content }}
+            <h3>Blog</h3>
+            <div class="blog-annotations">
+                {% for post in site.posts %}
+                    <div class="blog-preview">
+                        <em> {{ post.date | date: "%d %B %Y"}} </em>
+                        <h2> {{ post.title }} </h2>
+                        {{ post.excerpt }}
+                        <a href="{{ post.url }}">Continue reading</a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="assets/js/menugen.js"></script>
+</body>
