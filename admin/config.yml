@@ -12,7 +12,7 @@ collections:
     label: "Blog"
     folder: "_posts"
     create: true
-    extension: "md"
+    extension: md
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}.{{extension}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
