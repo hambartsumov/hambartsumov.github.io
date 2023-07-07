@@ -13,7 +13,7 @@ collections:
     folder: "_posts"
     create: true
     extension: md
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
@@ -23,7 +23,7 @@ collections:
         date_format: "DD.MM.YYYY"
         format: "LL"
       - {label: "Body", name: "body", widget: "markdown"}
-    preview_path: "/{{year}}/{{month}}/{{day}}/{{title.slug}}"
+    preview_path: "/{{year}}/{{month}}/{{day}}/{{slug}}"
 
   - name: "index"
     label: "Index page"
