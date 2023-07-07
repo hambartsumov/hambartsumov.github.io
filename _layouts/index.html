@@ -29,6 +29,7 @@ title: Heorhii's personal page
             {{ content }}
             <h3>Blog</h3>
             <div class="blog-annotations">
+                {% assign posts_sorted = site.posts | sort: "date" %}
                 {% for post in site.posts %}
                     <div class="blog-preview">
                         <em> {{ post.date | date: "%d %B %Y"}} </em>
