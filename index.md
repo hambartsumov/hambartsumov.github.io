@@ -11,6 +11,7 @@ This site is made with Jekyll and hosted on Netlify hosting. The original intent
 What you see before your eyes is another great example on how one can waste two days of their time hunting down little mistakes, and resulting in something that has been existing since Ice Age, but works much worse than the original. We're not Google webdevs here, however.
 
 *text in italics!* Wow!
+Adding change in index page to see how badge works.
 
 MathJax should not work on this page, as required libraries are absent in the header.
 
