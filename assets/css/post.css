@@ -37,3 +37,11 @@
     margin-right: auto;
     display: block;
 }
+
+.page-date {
+    margin: 10px;
+}
+
+.page-title {
+    margin-top: 6px;
+}
