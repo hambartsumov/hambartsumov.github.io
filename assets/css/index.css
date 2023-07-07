@@ -21,7 +21,7 @@ html, body {
     margin: auto;
     margin-top: 50px;
     line-height: 1.5;
-    font-size: 21px;
+    font-size: 17px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -35,8 +35,12 @@ html, body {
         -ms-transform: translateY(-50%);
         transform: translateY(-50%);
       }
+      .menu {
+        font-size: 22px;
+      }
     .right-centered {
         width: 60%;
+        font-size: 21px;
     }
 }
 
@@ -44,7 +48,7 @@ html, body {
 .menu {
     text-align: center;
     line-height: 1.5;
-    font-size: 22px;
+    font-size: 19px;
 }
 
 .prfimg {
