@@ -1,7 +1,8 @@
 /*IMPORTANT: the assumed condition for viewing is mobile phone, desktop rules are given below*/
 
-body {
+html, body {
     font-family: 'Times New Roman', Times, serif;
+    overflow: auto;
 }
 
 .menu {
@@ -85,9 +86,3 @@ body {
     border-left-color: blue;
     border-left-width: 3px;
 }
-/* 
-.admin-panel {
-    font-size: 19px;
-    position: absolute;
-    right: 20px;
-} */
