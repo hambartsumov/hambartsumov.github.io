@@ -1,13 +1,14 @@
 /*IMPORTANT: the assumed condition for viewing is mobile phone, desktop rules are given below*/
 
-html, body {
+html,
+body {
     font-family: 'Times New Roman', Times, serif;
     overflow: auto;
 }
 
 .menu {
-  width: 100%;
-  float: left;
+    width: 100%;
+    float: left;
 }
 
 .right {
@@ -24,32 +25,44 @@ html, body {
     font-size: 17px;
 }
 
-@media only screen and (min-width: 768px) {
-    /* desktops */
-    .menu {width: 25%; max-width: 700px; position: fixed; height: 100%;}
-    .right {width: 75%; float: right;}
-    .menu-vertical-center {
-        margin: 0;
-        position: absolute;
-        top: 50%;
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-      }
-      .menu {
-        font-size: 22px;
-      }
-    .right-centered {
-        width: 60%;
-        font-size: 21px;
-    }
-}
-
 
 .menu {
     text-align: center;
     line-height: 1.5;
     font-size: 19px;
 }
+
+
+@media only screen and (min-width: 768px) {
+
+    /* desktops */
+    .menu {
+        width: 25%;
+        max-width: 700px;
+        position: fixed;
+        height: 100%;
+        font-size: 22px;
+    }
+
+    .right {
+        width: 75%;
+        float: right;
+    }
+
+    .menu-vertical-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+
+    .right-centered {
+        width: 60%;
+        font-size: 21px;
+    }
+}
+
 
 .prfimg {
     width: 45%;
@@ -61,22 +74,23 @@ html, body {
 
 .menu-itself {
     list-style-type: none;
-	/* position: relative;
+    /* position: relative;
 	list-style: none; */
-	margin-left: 0;
-	padding-left: 0;
+    margin-left: 0;
+    padding-left: 0;
 }
-.menu-itself > li:before {
+
+.menu-itself>li:before {
     content: "";
     position: absolute;
     left: 0;
 }
 
-.menu-itself > li {
+.menu-itself>li {
     margin-bottom: 7px;
 }
 
-.blog-preview > * {
+.blog-preview>* {
     font-size: 95%;
     margin-top: 5px;
     margin-bottom: 5px;
