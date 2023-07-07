@@ -37,10 +37,6 @@ body {
     .right-centered {
         width: 60%;
     }
-    .topmenu {
-        position: fixed;
-        width: 100%;
-    }
 }
 
 
@@ -89,9 +85,9 @@ body {
     border-left-color: blue;
     border-left-width: 3px;
 }
-
+/* 
 .admin-panel {
     font-size: 19px;
     position: absolute;
     right: 20px;
-}
+} */
