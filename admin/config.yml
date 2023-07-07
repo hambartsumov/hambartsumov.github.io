@@ -13,7 +13,7 @@ collections:
     folder: "_posts"
     create: true
     extension: md
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.{{extension}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
