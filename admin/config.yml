@@ -23,7 +23,6 @@ collections:
         date_format: "DD.MM.YYYY"
         format: "LL"
       - {label: "Body", name: "body", widget: "markdown"}
-    preview_path: "/{{year}}/{{month}}/{{day}}/{{filename}}"
 
   - name: "index"
     label: "Index page"
