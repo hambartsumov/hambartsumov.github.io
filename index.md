@@ -4,7 +4,9 @@ title: Heorhii's personal page
 ---
 ### About
 
-This site is made with Jekyll and hosted on Netlify hosting. The original intention was to put it onto GitHub Pages, but this did not work, as Decap CMS refuses to authenticate that way. 
+This site is made with [Jekyll](https://jekyllrb.com/) and hosted on Netlify hosting. The original intention was to put it onto GitHub Pages, but this did not work, as Decap CMS refuses to authenticate that way.
+
+![Image of submarine](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/HMS_Ambush_long.jpg/300px-HMS_Ambush_long.jpg)
 
 ### Works
 
