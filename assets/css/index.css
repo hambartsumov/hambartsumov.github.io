@@ -39,6 +39,7 @@ body {
     }
     .topmenu {
         position: fixed;
+        width: 100%;
     }
 }
 
