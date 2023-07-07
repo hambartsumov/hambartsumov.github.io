@@ -37,6 +37,9 @@ body {
     .right-centered {
         width: 60%;
     }
+    .topmenu {
+        position: fixed;
+    }
 }
 
 
