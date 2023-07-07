@@ -54,13 +54,6 @@ body {
     display: block;
 }
 
-.admin-panel {
-    font-size: 19px;
-    position: absolute;
-    right: 10px;
-    top: 10px;
-}
-
 .menu-itself {
     list-style-type: none;
 	/* position: relative;
@@ -91,4 +84,11 @@ body {
     border-left-style: solid;
     border-left-color: blue;
     border-left-width: 3px;
+}
+
+.admin-panel {
+    font-size: 19px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
 }
