@@ -10,6 +10,7 @@ site_url: https://hambartsumov.netlify.app/
 collections:
   - name: "blog"
     label: "Blog"
+    description: "The blogging part of site. MathJax is available with \\\\( \\\\). For image slider, use {% slider %} with ![]() in between"
     folder: "_posts"
     create: true
     extension: md

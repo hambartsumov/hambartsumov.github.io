@@ -2,5 +2,3 @@ kramdown:
   footnote_backlink: "↑"
 
 future: true
-
-iis_slider_array: []
