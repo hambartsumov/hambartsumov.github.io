@@ -4,7 +4,7 @@
 
 .blog-center {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 21px;
+    font-size: 17px;
     width: 90%;
     margin: auto;
     line-height: 1.5;
@@ -15,7 +15,7 @@
     /* desktops */
     .blog-center {
         width: 50%;
-        font-size: 17px;
+        font-size: 21px;
     }
 }
 
