@@ -7,14 +7,9 @@ title: Heorhii's personal page
 This page is mainly intended as main hub for all of my social media and CV links.
 Besides, I may post some occasional rants here.
 
-### Links
+### Works
 
-What you see before your eyes is another great example on how one can waste two days of their time hunting down little mistakes, and resulting in something that has been existing since Ice Age, but works much worse than the original. We're not Google webdevs here, however.
-
-*text in italics!* Wow!
-Adding change in index page to see how badge works.
-
-MathJax should not work on this page, as required libraries are absent in the header.
+This part is under development, as I don't have any projects I can be really proud of. This page is probably the most practical of them.
 
 ### Art
 
@@ -22,10 +17,7 @@ If you think I've got some adequate art, you are seriously mistaken.
 
 ### Other
 
-Tap your PRESTO card or PRESTO Ticket on a card reader when you enter a subway station or board a vehicle.
-Your fare will be deducted and a transfer will be applied to your card or ticket.
-This transfer allows you to enter and exit the TTC as much as you’d like within a two hour period.
-Tap your PRESTO card on a reader each time you enter a subway station and when you board a bus or streetcar. As long as you’re within two hours from your first tap, you won’t be charged another fare.
+Why is there so much text without that much meaning? I needed to test automatic menu generation (result should be on the left). If you don't have Javascript enabled, you will not see it. Another option is server-side rendering, but for that I would need to write a Ruby module.
 
 ### Contact
 
