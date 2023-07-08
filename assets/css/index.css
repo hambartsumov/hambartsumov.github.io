@@ -104,3 +104,7 @@ body {
     border-left-color: blue;
     border-left-width: 3px;
 }
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+}
