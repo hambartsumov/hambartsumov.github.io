@@ -17,7 +17,7 @@ I had some oil paintings in Kyiv, but left them all there, so there aren't any n
 
 ### Other
 
-Why is there so much text without that much meaning? I needed to test automatic menu generation (result should be on the left). If you don't have Javascript enabled, you will not see it. Another option is server-side rendering, but for that I would need to write a Ruby module.
+Why is there so much text without that much meaning? I needed to test automatic menu generation (result should be on the left or on the top). If you don't have JavaScript enabled, you will not see it. Another option is server-side rendering, but for that I would need to write a Ruby module.
 
 ### Contact
 
