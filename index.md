@@ -4,7 +4,8 @@ title: Heorhii's personal page
 ---
 ### About
 
-This site is made with [Jekyll](https://jekyllrb.com/) and hosted on Netlify hosting. The original intention was to put it onto GitHub Pages, but this did not work, as Decap CMS refuses to authenticate that way.
+This page is mainly intended as main hub for all of my social media and CV links.
+Besides, I may post some occasional rants or curious (in my opinion) technical things.
 
 ### Works
 
@@ -28,4 +29,4 @@ Tap your PRESTO card on a reader each time you enter a subway station and when y
 
 ### Contact
 
-I hope that automatic header generation will work. Is enough text to make the page scroll?
+`gosha20052811⠀[at]⠀gmail⠀[dot]⠀com` or `hambartsumov⠀[at]⠀college⠀[dot]⠀harvard⠀[dot]⠀edu`
