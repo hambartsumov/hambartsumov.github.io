@@ -9,11 +9,11 @@ Besides, I may post some occasional rants here.
 
 ### Works
 
-This part is under development, as I don't have any projects I can be really proud of. This page is probably the most practical of them.
+This part is under development, as I don't have any serious projects. This page is probably the most practical of them. So stay tuned.
 
 ### Art
 
-If you think I've got some adequate art, you are seriously mistaken. 
+I had some oil paintings in Kyiv, but left them all there, so there aren't any nice photos. Thank you Martin for suggesting idea for this chapter. 
 
 ### Other
 
