@@ -5,7 +5,7 @@ title: Heorhii's personal page
 ### About
 
 This page is mainly intended as main hub for all of my social media and CV links.
-Besides, I may post some occasional rants or curious (in my opinion) technical things.
+Besides, I may post some occasional rants here.
 
 ### Works
 
@@ -29,5 +29,5 @@ Tap your PRESTO card on a reader each time you enter a subway station and when y
 
 ### Contact
 
-`gosha20052811⠀[at]⠀gmail⠀[dot]⠀com` or
-`hambartsumov⠀[at]⠀college⠀[dot]⠀harvard⠀[dot]⠀edu`
+`gosha20052811⠀аt⠀gmail.com` &nbsp; &nbsp; (preferred)
+`hambartsumov⠀аt⠀college.harvard.edu`
