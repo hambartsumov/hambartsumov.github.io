@@ -7,7 +7,7 @@ title: Heorhii's personal page
 This page is mainly intended as main hub for all of my social media and CV links.
 Besides, I may post some occasional rants here.
 
-### Works
+### Links
 
 What you see before your eyes is another great example on how one can waste two days of their time hunting down little mistakes, and resulting in something that has been existing since Ice Age, but works much worse than the original. We're not Google webdevs here, however.
 
@@ -29,5 +29,6 @@ Tap your PRESTO card on a reader each time you enter a subway station and when y
 
 ### Contact
 
-*gosha20052811⠀[аt]⠀gmail.com* (preferred)\
+*@ambartsumovh* ([Telegram](https://telegram.org/), preferred)\
+*gosha20052811⠀[аt]⠀gmail.com*\
 *hambartsumov⠀[аt]⠀college.harvard.edu*
