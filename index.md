@@ -29,4 +29,6 @@ Tap your PRESTO card on a reader each time you enter a subway station and when y
 
 ### Contact
 
-`gosha20052811⠀[at]⠀gmail⠀[dot]⠀com` or `hambartsumov⠀[at]⠀college⠀[dot]⠀harvard⠀[dot]⠀edu`
+gosha20052811⠀[at]⠀gmail⠀[dot]⠀com \
+or \
+hambartsumov⠀[at]⠀college⠀[dot]⠀harvard⠀[dot]⠀edu
