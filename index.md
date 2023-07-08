@@ -6,8 +6,6 @@ title: Heorhii's personal page
 
 This site is made with [Jekyll](https://jekyllrb.com/) and hosted on Netlify hosting. The original intention was to put it onto GitHub Pages, but this did not work, as Decap CMS refuses to authenticate that way.
 
-![Image of submarine](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/HMS_Ambush_long.jpg/300px-HMS_Ambush_long.jpg)
-
 ### Works
 
 What you see before your eyes is another great example on how one can waste two days of their time hunting down little mistakes, and resulting in something that has been existing since Ice Age, but works much worse than the original. We're not Google webdevs here, however.
