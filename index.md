@@ -4,8 +4,8 @@ title: Heorhii's personal page
 ---
 ### About
 
-This page is mainly intended as main hub for all of my social media and CV links.
-Besides, I may post some occasional rants here.
+This page is mainly intended as main hub for some of my links and contact information.
+Besides, I may post some occasional rants here. No one will read them, though :)
 
 ### Works
 
