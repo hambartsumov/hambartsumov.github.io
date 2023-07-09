@@ -2,6 +2,8 @@
   "name": "ppage",
   "version": "1.0.0",
   "dependencies": {
+    "@octokit/app": "^13.1.8",
+    "@octokit/core": "^4.2.4",
     "jsonwebtoken": "^9.0.1"
   }
 }
