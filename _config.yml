@@ -2,3 +2,6 @@ kramdown:
   footnote_backlink: "↑"
 
 future: true
+
+plugins:
+  - "jekyll-github-metadata"
