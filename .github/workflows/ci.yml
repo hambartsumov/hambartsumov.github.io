@@ -8,6 +8,7 @@ on:
       - main
 
 env:
+  JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   PAGES_REPO_NWO: hambartsumov/hambartsumov.github.io
 
 jobs:
