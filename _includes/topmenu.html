@@ -6,6 +6,6 @@
         {%- capture edit_url -%}
             {% github_edit_link %}
         {%- endcapture -%}
-        {{ edit_url }}
+        {{ edit_url | replace '/gh-pages/', '/main/' }}
         " target="_blank">Edit</a>
 </div>
